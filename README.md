@@ -2,6 +2,10 @@
 
 A browser-only, cycle-by-cycle visualizer for a small RV32I assembly subset. Built with React, TypeScript, and Vite. No server or account is needed after loading the app.
 
+## Live demo
+
+[Open the visualizer](https://temporary-swift-chestnut-0ywjj50.vercel.app/)
+
 ## Run
 
 ```sh
